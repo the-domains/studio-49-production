@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Studio 49 Production]]></title>
         <description><![CDATA[Studio 49 Production]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/studio-49-production/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 14:26:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Mar 2016 14:59:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/studio-49-production/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b406a30b-5285-4a26-85e1-cae86a031c60.jpg">]]></description>
+            <link>https://thegrid.ai/studio-49-production/616fd8a0-6e9d-4810-b0fb-51a7cc6c19d9/index.html</link>
+            <guid isPermaLink="false">616fd8a0-6e9d-4810-b0fb-51a7cc6c19d9</guid>
+            <pubDate>Mon, 21 Mar 2016 14:59:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hi I am Isaac </p>]]></description>
-            <link>undefined3f969bcb-2e92-40f0-8b87-89632c66980d/index.html</link>
+            <link>https://thegrid.ai/studio-49-production/3f969bcb-2e92-40f0-8b87-89632c66980d/index.html</link>
             <guid isPermaLink="false">3f969bcb-2e92-40f0-8b87-89632c66980d</guid>
             <pubDate>Mon, 21 Mar 2016 14:26:35 GMT</pubDate>
         </item>
